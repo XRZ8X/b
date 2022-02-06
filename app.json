@@ -11,7 +11,8 @@
     "website": "t.me/SidraTools",
     "success_url": "https://t.me/XRZ8X",
     "env": {
-        "API_HASH": {         bea88bfc25db352dac70b318301cb4f7   "description": "Your API HASH from my.telegram.org",
+        "API_HASH": {bea88bfc25db352dac70b318301cb4f7      
+                     "description": "Your API HASH from my.telegram.org",
             "value": ""
         },
         "API_ID": {14886768
