@@ -9,17 +9,16 @@
     ],
     "repository": "https://github.com/SidraELEzz",
     "website": "t.me/SidraTools",
-    "success_url": "https://t.me/SidraTools",
+    "success_url": "https://t.me/XRZ8X",
     "env": {
-        "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
+        "API_HASH": {         bea88bfc25db352dac70b318301cb4f7   "description": "Your API HASH from my.telegram.org",
             "value": ""
         },
-        "API_ID": {
+        "API_ID": {14886768
             "description": "Your API ID from my.telegram.org",
             "value": ""
         },
-        "TOKEN": {
+        "TOKEN": {5214556378:AAFdaL-zCJr5gXMBQReAjH2XQ9dHcNbV3Es
             "description": "Bot token, get it from @BotFather.",
             "value": ""
         }
