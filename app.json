@@ -23,7 +23,7 @@
             "value": ""
         }
     },
-    "buildpacks": [
+    "buildpacks": [moiu6.herokuapp.com
         {
             "url": "heroku/python"
         }
